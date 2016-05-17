@@ -28,8 +28,9 @@ a {
 .header-wrapper {
   display: flex;
   justify-content: space-between;
-  max-width: 1000px;
-  margin: 0 auto;
+  max-width: 2000px;
+    border: 1px solid red;
+    margin: 0 auto;
 }
 
 .header-wrapper-name {
@@ -38,7 +39,10 @@ a {
 }
 
 .Sub-heading {
-  
+  font-style: inherit;
+  color: red;
+  font-family: 'Righteous', cursive;
+  text-align: center;
 }
 .menuBtn {
   -webkit-appearance: none;
