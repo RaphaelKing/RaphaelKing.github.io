@@ -1,5 +1,8 @@
 html {
   box-sizing: border-box;
+  background-color: rgb(48,48,48); 
+  border-style: solid;
+  border-color: #003366;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -29,13 +32,16 @@ a {
   display: flex;
   justify-content: space-between;
   max-width: 2000px;
-    border: 1px solid red;
-    margin: 0 auto;
+    border: 4px double red;
+    margin: 5px auto;
 }
+
+
 
 .header-wrapper-name {
   font-size: 20px;
   font-weight: bold;
+  color: rgb(
 }
 
 .Sub-heading {
