@@ -6,6 +6,11 @@ html {
 }
 *, *:before, *:after {
   box-sizing: inherit;
+  border-bottom-color: #0000CC;
+  border-bottom-left-radius: 20%;
+  border-top-color: #3333FF;
+  border-bottom-style:
+ 
 }
 
 /**
